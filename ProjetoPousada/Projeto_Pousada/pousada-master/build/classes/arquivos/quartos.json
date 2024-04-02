@@ -1,0 +1,90 @@
+[
+  {
+    "numeroQuarto": 0,
+    "apelido": "Paraíso Perdido Individual",
+    "tipo": "Luxuoso",
+    "preco": 200.0,
+    "capacidade": 1,
+    "despesaQuarto": 50.0
+  },
+  {
+    "numeroQuarto": 1,
+    "apelido": "Estadia Espiritual em Dupla",
+    "tipo": "Luxuoso",
+    "preco": 400.0,
+    "capacidade": 2,
+    "despesaQuarto": 100.0
+
+  },
+  {
+    "numeroQuarto": 2,
+    "apelido": "Savana Selvagem Trisal",
+    "tipo": "Luxuoso",
+    "preco": 600.0,
+    "capacidade": 3,
+    "despesaQuarto": 150.0
+
+  },
+  {
+    "numeroQuarto": 3,
+    "apelido": "Refúgio Estelar Quádruplo",
+    "tipo": "Luxuoso",
+    "preco": 800.0,
+    "capacidade": 4,
+    "despesaQuarto": 200.0
+
+  },
+  {
+    "numeroQuarto": 4,
+    "apelido": "Estadia Espiritual em Família",
+    "tipo": "Luxuoso",
+    "preco": 1000.0,
+    "despesaQuarto": 250.0,
+    "capacidade": 5
+  },
+  {
+    "numeroQuarto": 5,
+    "apelido": "Soturno Solitário",
+    "tipo": "Padrão",
+    "preco": 100.0,
+    "capacidade": 1,
+    "despesaQuarto": 25.0
+
+  },
+  {
+    "numeroQuarto": 6,
+    "apelido": "Descanso Prático",
+    "tipo": "Padrão",
+    "preco": 200.0,
+    "capacidade": 2,
+    "despesaQuarto": 50.0
+
+  },
+  {
+    "numeroQuarto": 7,
+    "apelido": "Refúgio Econômico",
+    "tipo": "Padrão",
+    "preco": 300.0,
+    "capacidade": 3,
+    "despesaQuarto": 55.0
+
+  },
+  {
+    "numeroQuarto": 8,
+    "apelido": "Dormitório Confortável",
+    "tipo": "Padrão",
+    "preco": 400.0,
+    "capacidade": 4,
+    "despesaQuarto": 60.0
+
+  },
+  {
+    "numeroQuarto": 9,
+    "apelido": "Retiro Simples em Família",
+    "tipo": "Padrão",
+    "preco": 500.0,
+    "capacidade": 5,
+    "despesaQuarto": 65.0
+
+  }
+]

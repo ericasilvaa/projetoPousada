@@ -1,0 +1,12 @@
+[
+  {"senha":"1","privilegios":true,"nome":"1","cpf":"1"},
+  {"senha":"mesmosss","privilegios":true,"nome":"Gabriel","cpf":"10987654321"},
+  {"senha":"123456","privilegios":true,"nome":"Lurdes","cpf":"14220832688"},
+  {"senha":"951111","privilegios":true,"nome":"Vânia","cpf":"11144488899"},
+  {"senha":"123456","privilegios":true,"nome":"Carluxo","cpf":"74156896325"},
+  {"senha":"senha1","privilegios":false,"nome":"João","cpf":"12345678901"},
+  {"senha":"senha2","privilegios":false,"nome":"Maria","cpf":"98765432109"},
+  {"senha":"senha3","privilegios":false,"nome":"Carlos","cpf":"45678901234"},
+  {"senha":"senha4","privilegios":false,"nome":"Ana","cpf":"56789012345"},
+  {"senha":"senha5","privilegios":false,"nome":"Pedro","cpf":"89012345678"}
+]
